@@ -1,0 +1,7 @@
+How to setup game
+To setup the game, do ./chrootjailer.bsh
+Press Y, then enter.
+After it is done, press Ctrl+C
+Type in: sudo sh setup
+It will do the rest for you!
+To start playing, type: sudo sh start

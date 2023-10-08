@@ -1,0 +1,2 @@
+echo "Press 3 then enter nano, press enter, then y"
+./chrootjailer.bsh
